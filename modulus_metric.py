@@ -27,8 +27,8 @@
 # of the Software, and to permit persons to whom the Software is furnished to do 
 # so, subject to the following conditions:
 #
-# 1. If you publish scientific papers using the Software, you should consider citing 
-# within these papers the following:
+# 1. If you publish scientific papers based on work that uses the Software, you 
+# should consider citing within these papers the following:
 # Rusu, C. V. and Florian, R. V. (2010), A new spike train metric, 
 # BMC Neuroscience 11(Suppl. 1), P169. Nineteenth Annual Computational Neuroscience Meeting:
 # CNS*2010.
