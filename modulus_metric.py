@@ -5,6 +5,7 @@
 #For more information, please see the folowing papers:
 #
 #Rusu, C. V. and Florian, R. V, A new class of metrics for spike trains, submitted.
+#Preprint: arXiv:1209.2918
 #
 #Rusu, C. V. and Florian, R. V. (2010), A new spike train metric, BMC Neuroscience
 #11(Suppl. 1), P169. Nineteenth Annual Computational Neuroscience Meeting:
