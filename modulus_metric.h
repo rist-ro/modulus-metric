@@ -1,13 +1,12 @@
 /*
 This file includes C++ implementations of the modulus-metric distance between two spike trains, 
-as defined in the following papers:
+as defined in the following paper:
 
-Rusu, C. V. and Florian, R. V, A new class of metrics for spike trains, submitted.
+Rusu, C. V., & Florian, R. V. (2014). A new class of metrics for spike trains. 
+Neural Computation, 26(2), 306–348. doi:10.1162/NECO_a_00545
+
 Preprint: arXiv:1209.2918
 
-Rusu, C. V. and Florian, R. V. (2010), A new spike train metric, BMC Neuroscience
-11(Suppl. 1), P169. Nineteenth Annual Computational Neuroscience Meeting:
-CNS*2010.
 
 ################################################################################
 # (C) R. V. Florian & C. V. Rusu, 2012
@@ -21,9 +20,10 @@ CNS*2010.
 #
 # 1. If you publish scientific papers based on work that uses the Software, you 
 # should consider citing within these papers the following:
-# Rusu, C. V. and Florian, R. V. (2010), A new spike train metric, 
-# BMC Neuroscience 11(Suppl. 1), P169. Nineteenth Annual Computational Neuroscience Meeting:
-# CNS*2010.
+#
+# Rusu, C. V., & Florian, R. V. (2014). A new class of metrics for spike trains. 
+# Neural Computation, 26(2), 306–348. doi:10.1162/NECO_a_00545
+#
 # 2. If you create derivative works using the Sofware and these works have an associated
 # list of contributors, you must attribute the work of R. V. Florian and C. V. Rusu according 
 # to the relevance of the Software to the derivative works.
